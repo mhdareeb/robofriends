@@ -30,8 +30,7 @@ class App extends Component
         <SearchBox onInputChange={onInputChange} />
         <Scroll>
           <CardList searchField={searchField} robots={robots} />
-        </Scroll>
-      )        
+        </Scroll>      
       </div>
     );
   }
