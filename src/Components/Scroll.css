@@ -1,6 +1,6 @@
 #scroll
 {
-    height: 400px;
+    height: 800px;
     overflow-y: scroll;
     border: 2px solid black;
     padding-top: 10px;
